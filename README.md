@@ -2,10 +2,10 @@
 Common Files Generally Needed In Project Developement
 
 # Usefull Files
-- [KeypadWatcher](docs/KeypadWatcher.java)
+- [KeyBoardWatcher](docs/KeyBoardWatcher.java)
 - [DateParser](docs/DateParser.java)
 
-# KeypadWatcher
+# KeyBoardWatcher
 It helps you to track Open or Close Keypad
 
 Just create a object with Activity or Fragment where you want to use.
