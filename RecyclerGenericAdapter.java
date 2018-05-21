@@ -1,5 +1,3 @@
-package com.jas.digitalkyats.ui.NewGui.Offers.reportnew.ui.adapter;
-
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
