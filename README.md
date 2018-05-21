@@ -1,5 +1,5 @@
 # Utils
-Common Files Generally Needed In Project Developement
+Common Files Generally Needed In Project Developement like RecylerView Adapter, Date Parser, Keyboard Watcher
 
 # Usefull Files
 - [KeyBoardWatcher](KeyboardWatcher.java)
